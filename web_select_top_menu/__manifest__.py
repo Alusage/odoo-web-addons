@@ -7,7 +7,7 @@
     "summary": """
         Select top menus per user to create simple backend entry
         By default top menus are menu that have no parent_id""",
-    "version": "16.0.1.0.2",
+    "version": "14.0.1.0.2",
     "license": "AGPL-3",
     "author": "Nicolas JEUDY",
     "website": "https://github.com/Alusage/odoo-web-addons",
